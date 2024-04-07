@@ -1,0 +1,15 @@
+fastapi
+ipykernel
+langchain
+pypdf
+python-box
+python-dotenv
+uvicorn
+pandas
+pymilvus
+sentence-transformers
+openai
+redis
+langchain-google-genai==0.0.5
+langchain-experimental==0.0.47
+langchain-core==0.1.0
